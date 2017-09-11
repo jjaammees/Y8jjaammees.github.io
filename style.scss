@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: https://cdn.pixabay.com/blog/preview/2015/11/01/13-41-55-935_640x420.png;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: black;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: black;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: black;
 }
 
 p {
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: black;
   }
 }
 
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: black;
 }
 
 // Specify the color of the selection
@@ -127,7 +127,7 @@ img {
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: black;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
