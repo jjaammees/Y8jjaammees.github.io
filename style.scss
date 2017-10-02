@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: https://cdn.pixabay.com/blog/preview/2015/11/01/13-41-55-935_640x420.png;
+	background: https:https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Plain-Wallpaper-HD-Free-Download-PIC-WPE001771.jpg;
   font: 18px/1.4 $helvetica;
   color: black;
 }
@@ -47,7 +47,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: black;
+    color: white;
+	  
   }
 }
 
@@ -61,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: black;
+  color: white;
 }
 
 p {
@@ -73,7 +74,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: black;
+    color: white;
   }
 }
 
@@ -117,16 +118,17 @@ img {
 
 .date {
   font-style: italic;
-  color: black;
+  color: white;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: white;
+  background: white;
 }
 ::selection {
-  color: $black;
+  color: white
+	  ;
   background: black;
 }
 
@@ -192,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: black;
+  color: white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: white;
   font-size: 16px;
 
   @include mobile {
@@ -225,14 +227,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: white;
     }
   }
 }
@@ -256,7 +258,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: white;
     font-size: 22px;
     font-style: italic;
   }
