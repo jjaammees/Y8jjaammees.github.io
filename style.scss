@@ -110,6 +110,34 @@ strong, b {
 
 img {
   max-width: 100%;
+	
+	
+	
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+table, th, td {
+   border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+td {
+    vertical-align: center;
+}
+	
 }
 
 // Fixes images in popup boxes from Google Translate
