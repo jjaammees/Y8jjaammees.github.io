@@ -14,13 +14,13 @@
 /**************/
 
 html {
-  font-size: 90%;
+  font-size: 100%;
 }
 
 body {
-	background: https://wallpaper.pickywallpapers.com/1920x1080/3d-ice-cubes.jpg;
+	background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/3d-ice-cubes.jpg");
   font: 18px/1.4 $helvetica;
-  color:  #000000;
+  color: #000000;
 }
 
 .container {
@@ -28,6 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+background: rgba(23,255,104,0.9);
 }
 
 h1, h2, h3, h4, h5, h6 {
