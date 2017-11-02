@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Making a blog</td>
+    <td>Fuze week four</td>
     <td>Date</td>
     <td>20/10/17</td>
   </tr>
