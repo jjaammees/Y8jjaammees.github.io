@@ -110,45 +110,30 @@ strong, b {
 
 img {
   max-width: 100%;
-	
-	
-	
-table {
-    width: 100%;
-}
 
-th {
-    height: 50px;
-}
-
-table, th, td {
-   border: 2px solid black;
-}
-
-table {
+    
+	table {
     border-collapse: collapse;
 }
 
-th, td {
-    padding: 15px;
-    text-align: left;
+table, td {
+    border: 1px solid black;
+	background-color: #660404;
+	color: #22ff00;
+		padding: 15px;
+	text-align: left;
 }
-
-td {
-    vertical-align: center;
-}
-	
-}
-
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
 .date {
   font-style: italic;
-  color:  #000000;
+  color: $gray;
 }
+ th {
+	border: 1px #ffffff;
+	 background-color: #000000;
+		 color: #ffffff;
+		 padding: 15px;
+	 text-align: left;
+]
 
 // Specify the color of the selection
 ::-moz-selection {
