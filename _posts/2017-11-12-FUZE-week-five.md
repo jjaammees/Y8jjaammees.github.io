@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>We downloaded our work from last week off a memory stick.</td>
   </tr>
   <tr>
