@@ -121,7 +121,7 @@ img {
 
 table, td {
     border: 1px solid #000000;
-	background-color: #f7f7f7;
+	background-color: #000000;
 	color: #000000;
 		padding: 15px;
 	text-align: left;
@@ -131,8 +131,8 @@ table, td {
   color: #000000;
 }
  th {
-	border: 1px #ffffff;
-	 background-color: #f7f7f7;
+	border: 1px #000000;
+	 background-color: #000000;
 		 color: #000000;
 		 padding: 15px;
 	 text-align: left;
@@ -141,7 +141,7 @@ table, td {
 // Specify the color of the selection
 ::-moz-selection {
   color:  #000000;
-  background:  #ffffff;
+  background:  #000000;
 }
 ::selection {
   color:  #000000;
