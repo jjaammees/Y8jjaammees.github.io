@@ -10,5 +10,4 @@ Manchester city fan
 I beleive in cheese
 
 ### Contact me at nothing
-
-[email@domain.com](mailto:email@domain.com)
+no email
