@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt from my mistakes in chapter 1 and they helped me complete 5 and 6.</td>
+    <td>I learnt from my mistakes earlier on in our project and they helped me complete 5 and 6. This week I did not understand something but my partner helped me understand it and move on to chapter 7</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The facts we could not go further than what the book said.</td>
+    <td>I found nothing this week limited my learning and we got very far with no distractions which enabled me to get very far as i said earlier</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to work faster next week so we get further into the book.</td>
+    <td>We needed no improvement as we got very far and I remembered my USB stick for a change. </td>
   </tr>
 </table>
 
