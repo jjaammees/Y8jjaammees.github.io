@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by following the work booklet It guided me through mistakes and errors. </td>
+    <td>I learnt by following the work booklet It guided me through mistakes and errors. Collaboration me and my partners worked together to get to the current stage we are at. I would be much further back I did it all on my own.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Time I feel we wasted a lot of time setting up our fuze box and when we actually started 15 minutes had gone</td>
+    <td>Time I feel we wasted a lot of time setting up our fuze box and when we actually started 15 minutes had gone as we had to change partners and me and my new partner were at different stages.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to be more efficient in the time given.</td>
+    <td>I will try to be more efficient in the time we are given and work to my best standard. Apart from that there is nothing I needed to change as we were quite time efficient.</td>
   </tr>
 </table>
 
