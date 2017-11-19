@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt with my partner who did not understand a part which I did so we managed to get through that part.</td>
+    <td>I learnt with my partner who did not understand a part which I did so we managed to get through that part fairly quickly. Today we did not get as much time because we had to get our blogs checked to see if they were running. Mine needed drastic improvement so i went to coding club.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Time because we had less time this week because our teacher had to check our blogs</td>
+    <td>Time because we had less time this week because our teacher had to check our blogs. I also forgot my USB stick this week which meant we were wasting time looking for it when i didn't have it.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to develop a better understanding of the FUZE boxes</td>
+    <td>I will remember my USB stick next week so we can be more efficient. As I said we stopped early for our teacher to check our blogs. Apart from that everything went smoothly.</td>
   </tr>
 </table>
 
