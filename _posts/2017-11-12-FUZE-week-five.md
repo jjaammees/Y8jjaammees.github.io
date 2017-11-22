@@ -18,17 +18,17 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>We downloaded our work from last week off a memory stick.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have completed chapter 5, 6 and maybe 7</td>
+    <td>To have completed chapter 7</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> We finished chapter 6 and started chapter 7. We had to stop early again so our teacher could check our blogs.</td>
+    <td> We finished chapter 7. We had to stop early again so our teacher could check our blogs.</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt from my mistakes in chapter 1 and they helped me complete 5 and 6.</td>
+    <td>I learnt from my mistakes from earlier in the term and translated that into the speed we worked for this reason we managed to get very far.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The facts we could not go further than what the book said.</td>
+    <td>nothing this week limited my learning as I remembered my USB stick and this week the fuze box started up straight away.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to work faster next week so we get further into the book.</td>
+    <td>I won't change anything as everything this week went very well as I got my blog to look how I wanted it to look like.</td>
   </tr>
 </table>
 
