@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Eleventh blog Finishing DEFCHAR</td>
     <td>Date</td>
-    <td>23/11/17</td>
+    <td>30/11/17</td>
   </tr>
 </table>
 
