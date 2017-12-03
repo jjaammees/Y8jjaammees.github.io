@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>10th blog DEFCHAR </td>
+    <td>Tenth blog starting DEFCHAR</td>
     <td>Date</td>
     <td>23/11/17</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We have moved on to the DEFCHAR stage</td>
+    <td>Me and my partner started DEFCHAR  which is about making figures on fuze V3.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a good understanding of the DEFCHAR code and make our own figures.</td>
+    <td>To have a basic understanding of DEFCHAR and make more figures.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by listening to instructions and when stuck re-read the part of the book looking for information. This helped because i never got stuck once i had re-read the part of the book.</td>
+    <td>I learnt by listening to instructions and when stuck re-read the part of the book looking for information. This helped because i never got stuck once i had re-read the part of the book. I also learnt by paying attention to instructions. This week I got distracted a bit by the group next to us because they were ahead of us. So next week I will try to not get distracted.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to work on making neater figures using the DEFCHAR code. This can be achieved by having a better understanding of the DEFCHAR code.</td>
+    <td>I need to work on making neater figures using the DEFCHAR code. This can be achieved by reading the manual; specifically the DEFCHAR part. This week i went to coding club to improve the look of my blog, this week I added: a bigger background, transparent boxes and a table. This makes my blog look how i want it to.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to put the figures is different places on the screen by editing their position. I will try to make neater figures.</td>
+    <td>I will try to put the figures is different places on the screen by editing their position. I will try to make neater figures which are more advanced that are harder to make. I can do this by being more concentrated on the task.</td>
   </tr>
 </table>
 
