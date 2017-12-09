@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Me and my partner started using the electronic component kit which is about using wires and led lights. See picture below.</td>
+    <td>Me and my partner started using the electronic component kit which is about using wires and led lights. </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by listening to instructions and when stuck re-read the part of the book looking for information. This helped because i never got stuck once i had re-read the part of the book. I also learnt by paying attention to instructions. This week we got very far and next week we would like to add more lights. See pic below.
+    <td>I learnt by listening to instructions and when stuck re-read the part of the book looking for information. This helped because i never got stuck once i had re-read the part of the book. I also learnt by paying attention to instructions. This week we got very far and next week we would like to add more lights. 
 </td>
   </tr>
   <tr>
