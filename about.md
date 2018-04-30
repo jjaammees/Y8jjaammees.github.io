@@ -6,8 +6,8 @@ permalink: /about/
 
 James Gavin
 
-Manchester city fan
-I beleive in cheese
+Manchester city fan, GX
 
-### Contact me at nothing
-no email
+### Contact me 
+james.gavin@challoners.org or on instagram @jxmes_gxvin_
+
