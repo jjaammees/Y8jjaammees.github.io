@@ -25,20 +25,19 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-background: rgba(109, 109, 109,0.8);
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color:  #000000;
-  font-weight: bold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
+	background-color: rgb(255, 255, 255);
+background-color: rgba(109, 109, 109,0.8);
+	    border-radius: 25px;
+   padding: 20px;
+	font: "Courier New", monospace;
+    width: 100%;
+    border: 10px #3496ed ;
+    border-style: inset;
+    box-shadow: 5px 5px 5px #000000;
   padding: 0;
 
   @include mobile {
