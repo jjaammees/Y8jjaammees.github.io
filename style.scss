@@ -29,6 +29,9 @@ margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+	#grad {
+  background: radial-gradient(red, grey, red);
+}
 	background-color: rgb(109, 109, 109);
 background-color: rgba(109, 109, 109,0.8);
 	    border-radius: 25px;
