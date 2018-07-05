@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
+    <td>python</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>1/7/18</td>
   </tr>
 </table>
 
@@ -19,16 +19,17 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td></td>
+    <td>I have 11 badges and working towards 12</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td></td>
+    <td>Get my 12th badge</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td></td>
+    <td>I did and i managed to get 13 badges this week
+</td>
   </tr>
 </table>
 
