@@ -1,5 +1,5 @@
 ---
-title: Blog number 1
+title: Blog one
 layout: post
 author: james.gavin
 permalink: /blog-number-1/
